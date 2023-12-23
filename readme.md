@@ -1,4 +1,4 @@
-<h1>Telegram bot on aiogram</h1>
+<h1>Telegram bot on aiogram 2</h1>
 
 <h4>Телеграмм бот для продажи кроссовок с каталогом, корзиной и админ-панелью.</h4>
 
